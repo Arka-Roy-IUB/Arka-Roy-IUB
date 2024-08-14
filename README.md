@@ -1,4 +1,4 @@
-![MasterHead](https://www.merieuxnutrisciences.com/asia/wp-content/uploads/2022/05/next-generation-sequencing-cover.jpg)
+![MasterHead](https://bpb-ca-c1.wpmucdn.com/sites.uoguelph.ca/dist/9/350/files/2022/12/Banner-Next-Gen-Sequencing-1640x630.jpg)
 <h1 align="center">Hi 👋, I'm Arka Roy</h1>
 <h3 align="center">A passionate Bioinformatics enthusiast from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/3eee0b_6d4e408c01cb4272a034fdd2e2edf402~mv2.gif">

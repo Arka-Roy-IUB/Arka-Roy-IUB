@@ -1,4 +1,4 @@
-![MasterHead](https://www.shutterstock.com/image-vector/bioinformatics-cooperative-concept-icons-computer-260nw-2214261987.jpg)
+![MasterHead](https://media.istockphoto.com/id/1096919364/vector/genomic-analysis-visualization-dna-genomes-sequencing-deoxyribonucleic-acid-genetic-map-and.jpg?s=612x612&w=0&k=20&c=LDkreEg9HSdNLiYuJ1qVJNTQJgpbEbObzkrbfAnB5Wo=)
 <h1 align="center">Hi 👋, I'm Arka Roy</h1>
 <h3 align="center">A passionate Bioinformatics enthusiast from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/3eee0b_6d4e408c01cb4272a034fdd2e2edf402~mv2.gif">
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arka.roy18@gmail.com**
 
-- ⚡ Fun fact **I play piano and and a freestyle swimmer who likes to go to the gym**
+- ⚡ Fun fact **I play piano, enjoy swimming and like to go to the gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

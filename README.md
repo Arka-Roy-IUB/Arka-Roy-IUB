@@ -1,6 +1,7 @@
 ![MasterHead](https://github.com/Arka-Roy-IUB/Arka-Roy-IUB/blob/main/Header%20photo%20analysis.PNG?raw=true)
 <h1 align="center">Hi 👋, I'm Arka Roy</h1>
-<h3 align="center">A passionate Data Science enthusiast from Bangladesh</h3>
+<h3 align="center">Biochemist & Data Scientist</h3>
+<h4 align="center">Focusing on Molecular Dynamics, Protein-Ion Interactions, and Analytical Method Development.</h4>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/3eee0b_6d4e408c01cb4272a034fdd2e2edf402~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arka-roy-iub&label=Profile%20views&color=0e75b6&style=flat" alt="arka-roy-iub" /> </p>
